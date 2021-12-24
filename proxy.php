@@ -1,5 +1,5 @@
 <?php
 
-$proxy_db = mysqli_connect('localhost', 'proxynet', 'ProxyNet', 'proxy');
+$proxy_db = mysqli_connect('localhost', 'Login', 'Password', 'Database');
 
 ?>
